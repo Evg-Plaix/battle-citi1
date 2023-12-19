@@ -1,0 +1,6 @@
+#include <iostraem>
+used namespace std;
+int main (int argc, char* argv{}) {
+cout << "Hello worlf" << endl;
+return ();
+}
